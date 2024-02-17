@@ -16,4 +16,4 @@ This is for my learning
 
 ## DEPLOYMENT
 
-Once everything will be okay. This will deploy on GitHub.
+Once everything will be okay. This will deploy on GitHub by the admin.
