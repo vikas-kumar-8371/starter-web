@@ -17,3 +17,7 @@ This is for my learning
 ## DEPLOYMENT
 
 Once everything will be okay. This will deploy on GitHub by the admin.
+
+### Copyright
+
+201Git.Training
