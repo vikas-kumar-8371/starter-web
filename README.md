@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-This is for my learning
+Please fork this repository and then issue Pull requests for reviews.
 
 ## DEPLOYMENT
 
